@@ -1,1 +1,6 @@
-cnn/data
+# Ignore dataset folders
+
+cnn/data/
+
+
+
